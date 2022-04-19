@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliciousFood.Api", "DeliciousFood.Api\DeliciousFood.Api.csproj", "{4BFE7D16-D51B-4039-800F-3817ED0D45D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliciousFood.Common", "DeliciousFood.Common\DeliciousFood.Common.csproj", "{BD5CD11F-CD3B-4EE7-85C6-AF7649047B10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliciousFood.DataAccess", "DeliciousFood.DataAccess\DeliciousFood.DataAccess.csproj", "{C6BFBD98-4BB7-45CE-96F1-5A1300166166}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliciousFood.DataAccess.MsSqlServer", "DeliciousFood.DataAccess.MsSqlServer\DeliciousFood.DataAccess.MsSqlServer.csproj", "{08500BE2-063D-4860-B073-C1AB8EFC6453}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliciousFood.Tests", "DeliciousFood.Tests\DeliciousFood.Tests.csproj", "{E41DDA56-E271-4B0B-B591-9C4EABE48B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousFood.Services", "DeliciousFood.Services\DeliciousFood.Services.csproj", "{3077840E-7F7F-4D52-87B7-5F270F478DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFE7D16-D51B-4039-800F-3817ED0D45D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFE7D16-D51B-4039-800F-3817ED0D45D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFE7D16-D51B-4039-800F-3817ED0D45D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFE7D16-D51B-4039-800F-3817ED0D45D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5CD11F-CD3B-4EE7-85C6-AF7649047B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5CD11F-CD3B-4EE7-85C6-AF7649047B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5CD11F-CD3B-4EE7-85C6-AF7649047B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5CD11F-CD3B-4EE7-85C6-AF7649047B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BFBD98-4BB7-45CE-96F1-5A1300166166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BFBD98-4BB7-45CE-96F1-5A1300166166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BFBD98-4BB7-45CE-96F1-5A1300166166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BFBD98-4BB7-45CE-96F1-5A1300166166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08500BE2-063D-4860-B073-C1AB8EFC6453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08500BE2-063D-4860-B073-C1AB8EFC6453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08500BE2-063D-4860-B073-C1AB8EFC6453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08500BE2-063D-4860-B073-C1AB8EFC6453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41DDA56-E271-4B0B-B591-9C4EABE48B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41DDA56-E271-4B0B-B591-9C4EABE48B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41DDA56-E271-4B0B-B591-9C4EABE48B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41DDA56-E271-4B0B-B591-9C4EABE48B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3077840E-7F7F-4D52-87B7-5F270F478DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3077840E-7F7F-4D52-87B7-5F270F478DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3077840E-7F7F-4D52-87B7-5F270F478DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3077840E-7F7F-4D52-87B7-5F270F478DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D514AF46-DFA9-49F5-AE06-05B778FC5D56}
+	EndGlobalSection
+EndGlobal

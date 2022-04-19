@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DbConfiguration": "Data Source=.\\SQLEXPRESS;Initial Catalog=DeliciousFoodTest;Persist Security Info=False;User ID=sa;Password=<MeU!8e*",
+    "MigrationProject": "DeliciousFood.DataAccess.MsSqlServer"
+  }
+}
